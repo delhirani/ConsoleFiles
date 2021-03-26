@@ -1,21 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace GitBranch
 {
-    class Program
+    class FeatureA
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
+            //Console.WriteLine("Hello World!");
 
             //This is a modified  from git hub new file
 
             //This is a Added  from visual studio by
 
-            //Code to featureA
+            //This is a Added  from visual studio from git
 
             //Adding again This is a Added  from visual studio from git
         }
     }
 }
+
